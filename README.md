@@ -5,8 +5,8 @@ A small webapp to remotely open new Google Chrome tabs on macOS
 
 # Installation
 
-1. Grab a binary from the [release page](https://github.com/iwittkau/url-tabber)
-2. [Download](https://github.com/iwittkau/url-tabber) the `index.html` template
+1. Grab a binary from the [release page](https://github.com/iwittkau/url-tabber/releases)
+2. [Download](https://github.com/iwittkau/url-tabber/raw/master/web/templates/index.html) the `index.html` template
 3. Put the template in some folder
 4. Start URL Tabber with:
 
